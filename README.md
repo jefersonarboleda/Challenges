@@ -1,2 +1,2 @@
-# Matrix_sprial_challenge
-It's my solution for a matrix spiral challenge which is part of coderbyte challenges. 
+# Challenges
+This are my solution for different kind of challenges, that I found in different websites.
